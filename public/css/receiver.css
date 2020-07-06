@@ -1,0 +1,10 @@
+body {
+  --logo-image: url(/images/logo.png);
+  --splash-image: url(//clistudiosdev.wpengine.com/wp-content/uploads/2020/06/caitlin-kinney-photo.png);
+}
+cast-media-player {
+  --theme-hue: 100;
+  --progress-color: rgb(187, 22, 187);
+
+  --splash-size: cover;
+}
